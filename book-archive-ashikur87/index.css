@@ -1,0 +1,12 @@
+/* error font color  */
+.error-font-color {
+    color: rgb(233, 212, 96) !important;
+  }
+  /* Search Keyword font color  */
+  
+  .search-keyword {
+    color: rgb(248, 203, 106) !important;
+  }
+  .image{
+    background-image:url('book.jpg') ;
+  }
